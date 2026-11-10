@@ -14,7 +14,13 @@ Upload an image and get an AI-generation probability score in seconds — plus t
 
 </div>
 
-<img src="docs/screenshots/desktop.png" alt="Interface" width="100%">
+<img src="docs/screenshots/desktop-en.png" alt="Interface" width="100%">
+
+---
+
+<div align="center">
+<img src="docs/screenshots/mobile-en.png" alt="Mobile" width="30%">
+</div>
 
 ---
 
@@ -69,6 +75,12 @@ Zoom in and look at these spots — where AI most often gives itself away:
 - **Backgrounds** — distant people, railings, wires blur into mush
 - **Symmetry** — earrings, glasses arms, shoelaces often mismatch left to right
 - **Reflections** — eye highlights and glass reflections that break physics
+
+---
+
+## Screenshot
+
+<img src="docs/screenshots/result-en.png" alt="Detection result" width="100%">
 
 ---
 
